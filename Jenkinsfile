@@ -1,16 +1,11 @@
 pipeline {
     agent any
     stages {
-        stage('Testing'){
-            steps{
-                echo 'Running Test'
-                bat 'python lab.py'
-            }
-        }
         stage('Build')
         {
             steps{
-                echo 'Buildig jar files...'
+                echo 'Running Test'
+                bat 'python labExam.py'
             }
         }
     }

@@ -1,0 +1,2 @@
+print("Tanay Parashar")
+print("Artificial Intelligence and Machine Learning 3 0 4 5 2 ECSE304L Cloud Computing 3 0 2 4 3 ECSE305L Automata Theory and Computability 3 1 0 4 4 Devops - I 2 0 2 3 5 SPM - II 2 0 2 3 6 Open Elective - II 3 0 0 3")
